@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: '/rick-and-morty-angular',
   allowedHosts: [],
   supportedLocales: {
   "en-US": ""

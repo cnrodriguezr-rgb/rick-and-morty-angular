@@ -1,7 +1,7 @@
 export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
   <meta charset="utf-8">
   <title>RickmortyApp</title>
-  <base href="/">
+  <base href="/rick-and-morty-angular/">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
 <link rel="stylesheet" href="styles-5INURTSO.css"><style ng-app-id="ng">.cards[_ngcontent-ng-c2443991446]{display:flex;flex-wrap:wrap;gap:20px}.card[_ngcontent-ng-c2443991446]{border:1px solid #ccc;padding:10px;width:200px;text-align:center;border-radius:10px}img[_ngcontent-ng-c2443991446]{width:100%;border-radius:10px}</style></head>
